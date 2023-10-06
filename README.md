@@ -1,6 +1,7 @@
 # BudgetWise
 
-Tech Stack Used:
+# Tech Stack Used:
+- MVVM
 - Kotlin
 - Jetpack Compose
 - Preferences DataStore
